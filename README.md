@@ -66,9 +66,9 @@ NEXT_PUBLIC_APP_NAME=slooze-api
 ## 4. Run the development server
 
 npm run dev
-or
+
 yarn dev
-or
+
 pnpm dev
 
 Now open http://localhost:3000
