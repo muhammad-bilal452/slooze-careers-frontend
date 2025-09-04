@@ -57,7 +57,7 @@ pnpm install
 Create a `.env.local` file in the root directory and add:
 
 NEXT_PUBLIC_API_URL=http://localhost:8080/
-NEXT_PUBLIC_APP_NAME=SLOOZE
+NEXT_PUBLIC_APP_NAME=slooze-api
 
 
 ## 4. Run the development server
