@@ -44,27 +44,27 @@ git clone https://github.com/muhammad-bilal452/slooze-careers-frontend
 cd slooze-frontend
 ```
 
-## 2. Install dependencies
-
+### 2. Install dependencies
+```
 npm install
 
 yarn install
 
 pnpm install
-
-## 3. Create environment variables
+```
+### 3. Create environment variables
 
 Create a `.env.local` file in the root directory and add:
-
+```
 NEXT_PUBLIC_API_URL=http://localhost:8080/
 NEXT_PUBLIC_APP_NAME=slooze-api
-
-## 4. Run the development server
-
+```
+### 4. Run the development server
+```
 npm run dev
 
 yarn dev
 
 pnpm dev
-
+```
 Now open http://localhost:3000
